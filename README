@@ -23,7 +23,7 @@ This project is licensed under GPL-3.0 license.
 3. HAL (Hardware Abstraction Layer) Manual: https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf
 
 ## Pinout
-![Example Image](https://github.com/levietduc0712/profile/blob/main/nucleo_f446re_morpho_left_2021_10_26.png)
+![Example Image](https://github.com/levietduc0712/NUCLEO_F446RE/blob/main/Image/nucleo_f446re_morpho_left_2021_10_26.png)
 
 Happy coding with NUCLEO-F446RE!
 
