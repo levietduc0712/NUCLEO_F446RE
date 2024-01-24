@@ -17,5 +17,10 @@ Contributions to this repository are welcome! If you have ideas for new projects
 ## License
 This project is licensed under GPL-3.0 license.
 
+## Document
+1. Datasheet: https://www.st.com/resource/en/datasheet/stm32f446re.pdf
+2. Manual: https://www.st.com/resource/en/reference_manual/rm0390-stm32f446xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+3. HAL (Hardware Abstraction Layer) Manual: https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf
+
 Happy coding with NUCLEO-F446RE!
 
