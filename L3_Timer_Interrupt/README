@@ -1,4 +1,4 @@
-# NUCLEO-F446RE Timer 6 LED Toggle
+# NUCLEO-F446RE Timer-6 LED Toggle
 
 This example demonstrates how to use Timer 6 on the NUCLEO-F446RE development 
 board to toggle the Green LED every 1000 milliseconds.
